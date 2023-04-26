@@ -1,7 +1,7 @@
-# TaskTrain
+# Task-Master
 
 
-TaskTrain is a simple task tracker built with Ruby on Rails and React
+Task-Master is a simple task tracker built with Ruby on Rails and React
 
 ## Prerequisites
 In order to use this repository, you will need to have the following setup in your computer.
